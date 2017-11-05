@@ -1,5 +1,9 @@
 # Processingでビジュアルコーディング
 
+## [こちら](https://github.com/gatamaru/processing-2017)に移転しました．
+
+---
+
 このリポジトリは，「がたまるプログラミングキャンプ」のProcessingコースの資料です．
 
 ## 資料
